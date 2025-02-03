@@ -8,3 +8,12 @@ function palindrome(myString) {
     }
 }
 palindrome("madam");
+palindrome("apple");
+palindrome("forward");
+palindrome("laptop");
+palindrome("civic");
+palindrome("racecar");
+palindrome("level");
+palindrome("solo");
+palindrome("radar");
+palindrome("rotor");
